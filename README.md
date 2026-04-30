@@ -29,6 +29,8 @@
 
 ---
 
+![](MoCloMatic_Workflow.png)
+
 ## How to Use
 
 1. **Prepare Input Files (Export From Benchling):**
