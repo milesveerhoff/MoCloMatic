@@ -2,6 +2,8 @@
 
 **MoCloMatic** is a graphical tool and protocol generator for automating Golden Gate/MoClo DNA assembly workflows using [benchling.com](https://benchling.com) and the Opentrons OT-2 liquid handling robot. It streamlines the process of preparing and running complex DNA assembly reactions, including support for multiple toolkits (e.g., Multiplex Yeast Toolkit (MYT), Yeast Toolkit (YTK), and others).
 
+[In-browser demo version also available here!](https://milesveerhoff.github.io/moclomatic/)
+
 ---
 
 ## Features
